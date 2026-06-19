@@ -62,7 +62,3 @@ python gui_app.py
   - Metode/Mode AES
   - Key (hex) dan IV (hex)
   - Metrik kualitas citra (PSNR/MSE/SSIM/NCC)
-
-## License
-
-Silakan tambahkan lisensi sesuai kebutuhan penelitian Anda.
