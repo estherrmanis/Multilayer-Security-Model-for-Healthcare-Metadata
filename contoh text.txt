@@ -1,0 +1,63 @@
+
+====================================================
+           DATA REKAM MEDIS PASIEN
+====================================================
+
+Nomor Rekam Medis : RM-2026-00125
+Tanggal Pemeriksaan : 07 Mei 2026
+Nama Pasien : Andi Pratama
+Jenis Kelamin : Laki-laki
+Tanggal Lahir : 12 Januari 1998
+Usia : 28 Tahun
+Alamat : Jl. Melati No. 15, Tangerang
+Nomor Telepon : 0812-3456-7890
+
+----------------------------------------------------
+RIWAYAT KELUHAN
+----------------------------------------------------
+Pasien mengeluhkan demam sejak 3 hari terakhir,
+disertai batuk kering, sakit kepala, dan nyeri tenggorokan.
+
+----------------------------------------------------
+PEMERIKSAAN FISIK
+----------------------------------------------------
+Tekanan Darah : 120/80 mmHg
+Suhu Tubuh : 38.5 °C
+Detak Jantung : 92 bpm
+Berat Badan : 68 kg
+Tinggi Badan : 172 cm
+
+----------------------------------------------------
+HASIL DIAGNOSIS
+----------------------------------------------------
+Diagnosis Utama :
+Infeksi Saluran Pernapasan Atas (ISPA)
+
+Diagnosis Tambahan :
+Dehidrasi ringan
+
+----------------------------------------------------
+TINDAKAN DAN PENGOBATAN
+----------------------------------------------------
+1. Paracetamol 500 mg
+   Aturan Pakai : 3x sehari setelah makan
+
+2. Amoxicillin 500 mg
+   Aturan Pakai : 3x sehari selama 5 hari
+
+3. Vitamin C
+   Aturan Pakai : 1x sehari
+
+----------------------------------------------------
+SARAN DOKTER
+----------------------------------------------------
+- Perbanyak istirahat
+- Minum air putih minimal 2 liter per hari
+- Hindari makanan berminyak dan dingin
+- Kontrol kembali apabila demam tidak turun dalam 3 hari
+
+----------------------------------------------------
+DOKTER PENANGGUNG JAWAB
+----------------------------------------------------
+Nama Dokter : dr. Budi Santoso
+Poliklinik : Umum
